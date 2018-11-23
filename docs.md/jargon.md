@@ -55,4 +55,17 @@ refer to broker terms to know if stopout will happen.
 ## Technical analysis
 if all info is contained in the price at any given point in time, historical trends resolve in past. More precise than fundamental trading.
 
+Past and deriving rules for next. It removes psychology from trading. Just follow rules scrictly
+and you have a higher chance of success.
+
+Contrast you don't need an intimacy with what you are trading.
+
+takes minimum pair
+
+## Sentiment Analysis
+More of auxiliary analysis to help you tell or assess the mood of a market. You can use twitter and facebook to see what people are thinking or talking.
+
+rare sentiment can drive market, but good to see it. It is refeclted in currency pairs. Uncertaintity of investors will happen in real time.
+
+
 
