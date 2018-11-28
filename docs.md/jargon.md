@@ -154,6 +154,36 @@ and simplicity is key to success
 if price is below the moving avverage it is a downward trend
 if it is above the moving average, it is an upward trend
 
+## Forex robots
+program goes through meta trader 4
+it supposed to bring you profits automatically
+cant just use robot to have money come in with no effort at all.
+
+95% are scams
+but algorithmic trading does work
+all strategies converted into forex robots
+
+## Takes some work
+reoptimization
+highly advantagous
+
+trade from any place in planet
+couple hours a day you have to make decisions
+generally it frees up constraints
+
+2 advantage
+phsycological side of things
+
+start with manual trading
+
+## Trading with robots
+check it out it can be profitable, but needs work to manage the robot.
+
+
+
+
+
+
 
 
 
